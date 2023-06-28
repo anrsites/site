@@ -1,0 +1,251 @@
+body {
+
+    font-family: Arial, sans-serif;
+
+    margin: 0;
+
+    padding: 0;
+
+}
+
+
+
+
+.container {
+
+    max-width: 1200px;
+
+    margin: 0 auto;
+
+    padding: 20px;
+
+}
+
+/* Estilos de cabecalho*/
+nav {
+    height: 100px;
+}
+
+header {
+
+    background-color: #247ba0;
+
+    color: #fff;
+
+    padding: 20px;
+
+    display: flex;
+
+    justify-content: space-between;
+    align-items: center;
+
+
+
+
+}
+
+nav ul {
+
+    list-style-type: none;
+
+    margin: 0;
+
+    padding: 0;
+
+    display: flex;
+
+}
+
+nav ul li {
+
+    margin-right: 20px;
+
+
+
+
+}
+
+nav ul li a {
+
+    color: #fff;
+
+    text-decoration: none;
+
+
+
+
+}
+
+/*Estilos para listas de carros*/
+.kwid {
+    max-height: 300px;
+    max-width: 646px;
+    left: 65px;
+    position: absolute;
+    transform: scale(1.0);
+    top: 250px;
+    border: 2px solid ;
+    box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;}
+.onix{ max-height: 300px;
+    max-width: 646px;
+    left: 65px;
+    position: absolute;
+    transform: scale(1.0);
+    top: 750px;
+    border: 2px solid ;
+    box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;}
+li a {
+    margin-top: -20px; 
+    margin-bottom: 20px; 
+    left: 100px; 
+    top: 100px; 
+    position: relative;
+  
+  }
+  
+
+
+.menu {
+    max-height: 40px;
+
+    max-width: 646px;
+
+    left: -1900px;
+
+    position: absolute;
+
+    top: 10px;
+
+}
+
+.logo {
+    max-height: 185px;
+
+    max-width: 646px;
+
+    left: 530px;
+
+    position: absolute;
+
+    top: -35px;
+
+}
+
+.instagram{
+    max-width: 646px;
+    max-height: 40px;
+    left: 120px;
+    top: 50px;
+    position: absolute;
+}
+
+.carros {
+
+    display: flex;
+
+    flex-wrap: wrap;
+
+    justify-content: space-between;
+
+    margin: 20px;
+
+
+
+
+}
+.comprar{ max-height: 350px;
+
+    max-width: 646px;
+
+    left: 50px;
+
+    position: absolute;
+
+    top: 530px;
+
+
+}
+.vaiquerer{max-height: 350px;
+
+    max-width: 646px;
+
+    left: 50px;
+
+    position: absolute;
+
+    top: 1030px;
+
+}
+
+.carrao {
+
+    max-height: 360px;
+
+    max-width: 646px;
+
+    left: 40px;
+
+    position: absolute;
+
+    top: 100px;
+
+}
+.menu{ max-height: 40px;
+
+    max-width: 646px;
+
+    left: -12px;
+
+    position: absolute;
+
+    top: 50px;
+
+
+}
+.confere{ max-height: 27px;
+
+    max-width: 646px;
+
+    left: 765px;
+
+    position: absolute;
+
+    top: 470px;}
+    .seilaoq{ max-height: 27px;
+
+        max-width: 646px;
+    
+        left: 800px;
+    
+        position: absolute;
+    
+        top: 410px;}
+        .jojo{ max-height: 27px;
+
+            max-width: 646px;
+        
+            left: 830px;
+        
+            position: absolute;
+        
+            top: 530px;}
+    
+.sii{ max-height: 27px;
+
+    max-width: 646px;
+
+    left: 830px;
+
+    position: absolute;
+
+    top: 530px;}
+.yo{max-height: 27px;
+
+    max-width: 646px;
+
+    left: 830px;
+
+    position: relative;
+
+    top: 530px;}
+    

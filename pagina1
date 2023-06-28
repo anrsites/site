@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+   
+
+    <meta charset="UTF-8">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Concessionaria Phoenix auto</title>
+
+    <link rel="stylesheet" type="text/css" href="styles.css">
+
+    <style>
+
+    h1{
+
+        font-family: "tarjan Pro",serif;font :size 32px;
+
+        margin:0;
+
+   
+
+    }
+
+</style>
+
+    </style>
+
+</style>
+
+   
+
+</head>
+
+<body>
+
+<header>
+
+    <h1>Phoenix Auto</h1>
+
+    <nav>
+
+        <ul>
+
+            <li><a href="#">Carros Novos</a></li>
+
+            <li><a href="#">Carros Seminovos</a></li>
+
+            <li><a href="#">Marcas</a></li>
+
+            <li><a href="#"></a></li>
+
+
+
+
+        </ul>
+
+    </nav>
+
+</header>
+
+<section class="carros">
+
+    <div class="cardcar" style="height: 50vh;">
+
+        <img src="fotodecarroteste.jpg" class="carrao">
+
+        <h2 class="texto1">Kwid</h2>
+
+        <div class="carro"></div>
+
+        <h2></h2>
+
+    </div>
+
+   
+
+<p></p>
+
+</section>
+
+</header>  
+
+<p></p>  
+
+<footer></footer>
+
+
+
+
+</body>
+
+</html>
